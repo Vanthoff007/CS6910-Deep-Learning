@@ -29,7 +29,7 @@ This repository provides resources for a comprehensive introduction to the funda
 
 ## Tools and Frameworks
 - **PyTorch**
-- **JAX**
+- **Python**
 
 ---
 
